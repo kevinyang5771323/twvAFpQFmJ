@@ -1,0 +1,2 @@
+# twvAFpQFmJ
+本员工管理系统是基于springboot和vue的前后端分离架构，旨在提供高效的员工信息管理。系统核心功能包括员工资料的录入、查询、更新和删除，支持数据存储于mysql数据库。通过vue和element-ui构建的友好的用户界面，结合springboot和mybatispuls后端技术，确保系统运行稳定可靠，助力企业优化人力资源管理流程，提升管理效率。
